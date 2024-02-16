@@ -1,2 +1,0 @@
-# Process
-The model was checked after gapfill with the campaniensis_after_gapfill script. Afterwards, a RAVEN model for H. campaniensis and for C. salexigens were generated using the generate_H_campaniensis_RAVEN. With these two models, the unique reactions of H. campaniensis were determined using the getUniqueRxnsHcamp. Finally, the unique reactions were added using the add_unique_Rxns campaniensis script. 
